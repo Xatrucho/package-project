@@ -2,8 +2,5 @@ print("hi git")
 
 print("hi")
 
-print("hello")
-
-
-
-print("wat wat")
+def hi_there():
+    print()

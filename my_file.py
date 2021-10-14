@@ -9,6 +9,8 @@ def hi_there():
 def hi_there():
     print("hi")
 
+
 def wat_wat():
     print ("wasup"):
     
+

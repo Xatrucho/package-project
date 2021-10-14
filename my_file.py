@@ -3,4 +3,11 @@ print("hi git")
 print("hi")
 
 def hi_there():
-    print()
+    print("hi")
+
+    
+def hi_there():
+    print("hi")
+
+
+    

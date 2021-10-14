@@ -9,5 +9,5 @@ def hi_there():
 def hi_there():
     print("hi")
 
-
+print("you suck")
     
